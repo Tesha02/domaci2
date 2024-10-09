@@ -40,7 +40,7 @@
             </tr>
         </tbody>
     </table>
-    <p>Nema proizvoda u korpi</p>
+    <p>Vasa korpa je prazna</p>
     <form method="post" action="?">
         <p>
             <a href="?">Nastavi sa kupovinom</a>
