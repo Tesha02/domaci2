@@ -6,7 +6,7 @@
 
     td,
     th {
-        border: 1px solid black;
+        border: 1px solid red;
     }
 </style>
 
