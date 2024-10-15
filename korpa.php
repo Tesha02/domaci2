@@ -16,7 +16,7 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Cena</th>
+                <th>Price</th>
             </tr>
         </thead>
         <tfoot>
