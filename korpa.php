@@ -11,7 +11,7 @@
 </style>
 
 <body>
-    <h1>Korpa</h1>
+    <h1>Cart</h1>
     <table>
         <thead>
             <tr>
