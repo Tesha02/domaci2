@@ -15,7 +15,7 @@
     <table>
         <thead>
             <tr>
-                <th>Naziv</th>
+                <th>Name</th>
                 <th>Cena</th>
             </tr>
         </thead>
